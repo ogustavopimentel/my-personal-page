@@ -48,6 +48,7 @@ body * {
     height: 712px;
     padding: 0 24px;
     margin: 56px auto 0px;
+    position: relative;
 }
 
 #back {
