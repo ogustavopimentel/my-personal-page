@@ -24,7 +24,7 @@ Site pessoal estilo Linktree para ser usado como portfólio e cartão de visita 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
+- JS
 - Git e Github
 
 ## :memo: Licença
